@@ -1,4 +1,4 @@
-# Pokemon
+# Pokemon Type Analysis
 ## 0\. Read Me
 The goal of the Data Analysis performed in the python Notebook is to be able to identify what pokemon types are the best from a statistical point of view, both as attackers and defensers  
 
