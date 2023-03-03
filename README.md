@@ -1,6 +1,6 @@
 # Pokemon
 ## 0\. Read Me
-The goal of the Data Analysis performed in the python Notebook is to be able to identify what pokemon types are the best from a statistical point of view, both as attackers and defenser  
+The goal of the Data Analysis performed in the python Notebook is to be able to identify what pokemon types are the best from a statistical point of view, both as attackers and defensers  
 
 Using csv inputs containing pokemons ids and type and a type chart, we will : 
 1. Load the Data into dataframes with homogeneous formats  
